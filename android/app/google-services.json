@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799217825122",
+    "firebase_url": "https://hacking-simulation-31720.firebaseio.com",
+    "project_id": "hacking-simulation-31720",
+    "storage_bucket": "hacking-simulation-31720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799217825122:android:b33377c886186f093be83b",
+        "android_client_info": {
+          "package_name": "com.hacking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799217825122-enqqfnfajqnvk0i7dp4g2aijar6299ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgvJ0i2GGrm0AtR3uzvF9b27XZl-97ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799217825122-enqqfnfajqnvk0i7dp4g2aijar6299ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
